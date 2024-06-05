@@ -5,7 +5,8 @@ body{
     background-color:var(--cor-de-fundo);
     font-family: "DM Serif Display", serif;
     font-weight: 400;
-    font-style: italic;
+    font-style: italic; 
+}
 .planta{
     width: 480px;
 }
