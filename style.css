@@ -12,4 +12,6 @@ body{
 }
 .procurar{
     width: 40%;
+    position: absolute;
+    top: 40px;
 }
