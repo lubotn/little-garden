@@ -4,7 +4,7 @@
 body{
     background-color:var(--cor-de-fundo);
     font-family: "DM Serif Display", serif;
-    font-weight: 400;
+    font-weight: ;100
     font-style: italic; 
 }
 .planta{
@@ -15,4 +15,6 @@ body{
     position: absolute;
     top: 40px;
 }
+.titulo{
 
+}
