@@ -15,3 +15,7 @@ body{
     position: absolute;
     top: 40px;
 }
+
+.title{ 
+    display: flex ;
+}
