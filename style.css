@@ -4,8 +4,15 @@
 body{
     background-color:var(--cor-de-fundo);
     font-family: "DM Serif Display", serif;
-    font-weight: ;100
+    font-weight: 100;
     font-style: italic; 
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
 }
 .planta{
     width: 30%;
