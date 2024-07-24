@@ -98,6 +98,8 @@ header{
   .card{
     width: 200px;
     height: 200px;
+    border-radius: 15px;
+    margin-top: 100px;
     background-color: antiquewhite;
-    margin-top: 20px;
+    
   }
