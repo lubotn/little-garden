@@ -96,10 +96,14 @@ header{
     align-items: center;
 }
   .card{
-    width: 200px;
-    height: 200px;
-    border-radius: 15px;
-    margin-top: 100px;
-    background-color: antiquewhite;
+    display: flex;
+    margin: 20px 0 0 0;
+    padding: 20px 0;
+    background-color: rgb(254, 255, 255);
+    border-radius: 19px;
+    border: 5px solid;
+    flex-direction: column-reverse;
+    align-items: center;
+}
     
   }
