@@ -103,7 +103,9 @@ header{
     border-radius: 19px;
     border: 5px solid;
     flex-direction: row;
-    align-items: flex-start;
+    align-content: center;
+    flex-wrap: wrap;
+}
 }
 .card2{
   display: flex;
@@ -116,6 +118,15 @@ header{
     align-items: center;
 }
 .subtitulo{
-font-size: 30%;
-
+display: block;
+font-size: 2em;
+margin-block-start: 0.67em;
+margin-block-end: 0.67em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+font-weight: bold;
+unicode-bidi: isolate;
+}
+.frase{
+  
 }
