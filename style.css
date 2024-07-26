@@ -131,7 +131,7 @@ header{
   flex-direction: row;
   align-items: center;
 }
-@media(max-width:770px) {
+@ media(max-width:770px) {
   .texto{
       color:red
   }
